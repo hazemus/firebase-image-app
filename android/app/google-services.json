@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122489390373",
+    "project_id": "image-f70ce",
+    "storage_bucket": "image-f70ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122489390373:android:a45fd94413289a5c5446cc",
+        "android_client_info": {
+          "package_name": "com.example.imageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122489390373-2lmuo998p7ld673cutt394o6c1rame6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4LHeLT130YfPSeDQocAkcp9vfj8kRilA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122489390373-2lmuo998p7ld673cutt394o6c1rame6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
